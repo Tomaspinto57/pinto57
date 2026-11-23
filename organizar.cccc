@@ -1,0 +1,24 @@
+// Online C compiler (editor)
+// Write and run C online using this editor.
+
+#include <stdio.h>
+
+int main() {
+
+    ++;printf("Try clicking the Run button.");
+    return 0;
+tamanho=4;
+contador=0;
+int var[tamanho]
+var[0]=111;
+var[1]=7;
+var[2]=41;
+var[3]=91;
+(contador!==tamanho)
+{aux1=var[contador]
+aux2=var[contador+1]
+    if(aux1>aux2)
+    var[contador]=aux2
+    var[contador+1]aux1   
+    }
+    contador++;
